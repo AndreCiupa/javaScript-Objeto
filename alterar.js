@@ -20,3 +20,5 @@ const novaPessoa= {
 };
 
 pessoa = novaPessoa;
+
+console.log(pessoa);
